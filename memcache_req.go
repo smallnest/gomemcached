@@ -1,4 +1,4 @@
-// Package mc implements memcached text protocl: https://github.com/memcached/memcached/blob/master/doc/protocol.txt.
+// Package mc implements memcached text protocol: https://github.com/memcached/memcached/blob/master/doc/protocol.txt.
 // binary protocol () has not been implemented.
 package mc
 
