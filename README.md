@@ -1,7 +1,8 @@
 # gomemcached
 Memcached protocol implementation for memcached server.
-
 You can use it to create a memcached server easily.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![GoDoc](https://godoc.org/github.com/smallnest/gomemcached?status.png)](http://godoc.org/github.com/smallnest/gomemcached)  [![travis](https://travis-ci.org/smallnest/gomemcached.svg?branch=master)](https://travis-ci.org/smallnest/gomemcached) [![Go Report Card](https://goreportcard.com/badge/github.com/smallnest/gomemcached)](https://goreportcard.com/report/github.com/smallnest/gomemcached) 
 
 
 import this lib:
